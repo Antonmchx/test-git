@@ -1,3 +1,4 @@
 I love you!
 :wo
+text from branch "b"
 
